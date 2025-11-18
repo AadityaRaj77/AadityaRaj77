@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm Aaditya, undergraduate student at IIT Roorkee.
-### C++, ReactJS, Python, NodeJS, ExpressJS, MySQL, Web Designing, Figma
+### C++, ReactJS, React Native, ExpoGo, Python, NodeJS, ExpressJS, MySQL, Web Designing, Figma
 <!--
 **AadityaRaj77/AadityaRaj77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
