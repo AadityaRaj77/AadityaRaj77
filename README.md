@@ -96,10 +96,10 @@
 
 <div align="center">
   <a href="https://github.com/AadityaRaj77">
-    <img src="https://github-readme-stats.vercel.app/api?username=AadityaRaj77&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Aaditya's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AadityaRaj77&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800" alt="Aaditya's Stats" />
   </a>
   <a href="https://github.com/AadityaRaj77">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaRaj77&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaRaj77&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F&cache_seconds=1800" alt="Top Languages" />
   </a>
 </div>
 <br/>
