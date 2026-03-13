@@ -6,7 +6,7 @@
   </h1>
 
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=D65AE1&background=00000000&center=true&vCenter=true&width=600&lines=F%23ll-St%40ck_D3v_%24!gn...;Full-Stack+Developer;Gr%40ph!c_Err0r_404...;Graphic+Designer;EcE_St%2Adent_%23FA...;ECE+Student;C0mp3t!t!v3_Pr0gr%40m...;Competitive+Programmer;D33p_L3%40rn!ng_M0d...;DL+and+Computer+Vision" alt="Decoding Glitch" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=D65AE1&background=00000000&center=true&vCenter=true&width=600&lines=F%23ll-St%40ck_D3v_%24!gn...;Full-Stack+Developer;Gr%40ph!c_Err0r_404...;Graphic+Designer;EcE_St%2Adent_%23FA...;ECE+Student;C0mp3t!t!v3_Pr0gr%40m...;Competitive+Programmer;D33p_L3%40rn!ng_M0d...;DL+and+AI+Pipelines" alt="Decoding Glitch" />
 </div>
 </div>
 
